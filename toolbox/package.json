@@ -1,7 +1,7 @@
 {
   "name": "toolbox",
   "version": "0.1.0",
-  "homepage": "https://oliverwaugh.github.io",
+  "homepage": "https://oliverwaugh.github.io/toolbox",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
